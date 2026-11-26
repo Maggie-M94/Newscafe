@@ -88,6 +88,9 @@ p {
     font-weight: 400;
 }
 
+span{
+    font-weight: bold;
+}
 /* Buttons */
 .btn-primary {
     color: var(--color-secondary);
@@ -114,7 +117,6 @@ p {
     color: var(--color-primary);
     border: 2px solid #df4d26 !important;
     border-style: none;
-
     /* filter: brightness(130%); */
 }
 
@@ -143,7 +145,6 @@ p {
     color: var(--color-secondary);
     border: 0px none;
     border-style: none !important;
-
     /* filter: brightness(130%); */
 }
 
